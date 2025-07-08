@@ -1,0 +1,7 @@
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\AmanApp.exe
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\AmanApp.dll
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\AmanApp.deps.json
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\AmanApp.runtimeconfig.json
+C:\Users\amankumar\AmanApp\bin\Release\net8.0\publish\AmanApp.pdb
